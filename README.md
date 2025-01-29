@@ -74,11 +74,4 @@ stripe-payment-gateway/
 - `ejs`: Template engine for rendering views.
 - `morgan`: HTTP request logger.
 
-## Future Enhancements
-- Add database integration for order storage.
-- Implement user authentication.
-- Support multiple products dynamically.
-
-## License
-This project is licensed under the MIT License.
 
